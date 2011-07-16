@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptGen", "ScriptGen\ScriptGen.csproj", "{58F51EBB-D1BC-4793-A0F6-E8A88DEB28E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProvider", "DataProvider\DataProvider.csproj", "{CCFA2B1A-BBF2-49D1-8535-39493F178211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptGenerator", "ScriptGenerator\ScriptGenerator.csproj", "{5312CAB4-3A8B-4ED4-8F28-50EBDC90E1B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F51EBB-D1BC-4793-A0F6-E8A88DEB28E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F51EBB-D1BC-4793-A0F6-E8A88DEB28E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F51EBB-D1BC-4793-A0F6-E8A88DEB28E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F51EBB-D1BC-4793-A0F6-E8A88DEB28E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFA2B1A-BBF2-49D1-8535-39493F178211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFA2B1A-BBF2-49D1-8535-39493F178211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFA2B1A-BBF2-49D1-8535-39493F178211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFA2B1A-BBF2-49D1-8535-39493F178211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5312CAB4-3A8B-4ED4-8F28-50EBDC90E1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5312CAB4-3A8B-4ED4-8F28-50EBDC90E1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5312CAB4-3A8B-4ED4-8F28-50EBDC90E1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5312CAB4-3A8B-4ED4-8F28-50EBDC90E1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

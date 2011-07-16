@@ -1,0 +1,4 @@
+WinForms application to generates script out of Microsoft Sql server.
+One can change the frequently used settings in the config file. For the correct information for the provider for you sql server version please look into http://www.connectionstrings.com/
+
+
